@@ -24,7 +24,7 @@ Each repository can have a detailed markdown documentation file (e.g., `apb-uart
 
 **Example**: See [`apb-uart-uvm-env.md`](./apb-uart-uvm-env.md) for a comprehensive documentation example.
 
-## Repository Index
+## Repository Index (Selected Repositories)
 
 ### UVM Frameworks & Libraries
 
@@ -66,6 +66,9 @@ Each repository can have a detailed markdown documentation file (e.g., `apb-uart
 |------------|-------------|----------|--------|---------------|
 | [repo_analysis](https://github.com/universal-verification-methodology/repo_analysis) | Repository analysis and indexing | - | Active | - |
 | [.github](https://github.com/universal-verification-methodology/.github) | GitHub organization configuration and templates | Shell | Active | - |
+
+> **Note**: The tables above list a **curated subset** of repositories from the organization for quick reference and documentation.  
+> The Universal Verification Methodology Community currently maintains **70+ repositories**, covering many more VIPs, tools, and examples than are listed here.
 
 ## Repository Categories
 
@@ -117,6 +120,7 @@ To add documentation for a repository:
 ## Quick Links
 
 - **Organization**: [universal-verification-methodology](https://github.com/universal-verification-methodology/)
+- **All Repositories (70+ list)**: [Organization Repositories](https://github.com/orgs/universal-verification-methodology/repositories)
 - **Example Documentation**: [apb-uart-uvm-env.md](./apb-uart-uvm-env.md)
 - **UVM Standard**: [Accellera UVM](https://www.accellera.org/downloads/standards/uvm)
 - **SystemVerilog Standard**: [IEEE 1800](https://ieeexplore.ieee.org/document/8299595)
